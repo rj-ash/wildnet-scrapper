@@ -1,0 +1,111 @@
+[
+  {
+    "domain": ".x.com",
+    "expiry": 1787084921,
+    "httpOnly": false,
+    "name": "personalization_id",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "\"v1_xbVzjkaRu2gRBQpW2NZP0A==\""
+  },
+  {
+    "domain": ".x.com",
+    "expiry": 1787084921,
+    "httpOnly": false,
+    "name": "guest_id",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "v1%3A175252492161337013"
+  },
+  {
+    "domain": ".x.com",
+    "expiry": 1787085123,
+    "httpOnly": false,
+    "name": "guest_id_ads",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "v1%3A175252492161337013"
+  },
+  {
+    "domain": ".x.com",
+    "expiry": 1787084933,
+    "httpOnly": true,
+    "name": "auth_token",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "ae539db1f8d88d50c38e6d923dc0c0c723af3f24"
+  },
+  {
+    "domain": ".x.com",
+    "expiry": 1752611335,
+    "httpOnly": true,
+    "name": "att",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "1-zAP0WB7vAr8rso40NlZA87ZR6Hz5N2GND02cOfoB"
+  },
+  {
+    "domain": ".x.com",
+    "expiry": 1752533921,
+    "httpOnly": false,
+    "name": "gt",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1944856599383912747"
+  },
+  {
+    "domain": ".x.com",
+    "expiry": 1752526721,
+    "httpOnly": true,
+    "name": "__cf_bm",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "OO0NWUd_HeCFBKdk.IJyIiBdQDavyephUlyq2GYk3do-1752524921-1.0.1.1-zNZz8fgWPL3q1sNZ42xI6pxKZagQbyGrGIyc5yukkWaEQv3jGDL8XBm0D7syovZAJyvukzf_qwOwTSkKDCmMdAUtizG3BVceIESdxDiSuBU"
+  },
+  {
+    "domain": ".x.com",
+    "expiry": 1787085123,
+    "httpOnly": false,
+    "name": "guest_id_marketing",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "v1%3A175252492161337013"
+  },
+  {
+    "domain": ".x.com",
+    "expiry": 1787084933,
+    "httpOnly": true,
+    "name": "kdt",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "xkaWNZM7sRECCICEggZtPeECk1B5haRY0ZGUcQty"
+  },
+  {
+    "domain": ".x.com",
+    "httpOnly": false,
+    "name": "lang",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "en"
+  },
+  {
+    "domain": ".x.com",
+    "expiry": 1784061123,
+    "httpOnly": false,
+    "name": "twid",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "u%3D1944736925060849665"
+  }
+]

@@ -1,0 +1,17 @@
+# Core Streamlit frontend
+streamlit>=1.33.0
+
+# Selenium web driver
+selenium>=4.15.0
+
+# Pandas for DataFrame handling
+pandas>=2.2.2
+
+# python-dotenv for .env support
+python-dotenv>=1.0.1
+
+# Optionally: undetected-chromedriver if you ever want stealth
+# undetected-chromedriver>=3.5.5
+
+# To manage Chrome driver (optional)
+# webdriver-manager>=4.0.1
