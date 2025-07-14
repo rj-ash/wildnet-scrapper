@@ -32,9 +32,9 @@ A simple, secure Streamlit app to scrape latest tweets by keyword — using Sele
 
 pip install -r requirements.txt
 
-# Add your .env file:
-# APP_USER=myuser
-# APP_PASS=mypass
+Add your .env file:
+APP_USER=myuser
+APP_PASS=mypass
 
 streamlit run app.py
 
