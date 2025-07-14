@@ -65,7 +65,7 @@ if st.session_state.page == "auth":
         st.session_state.username_or_phone = username_or_phone
         st.session_state.password = password
         st.session_state.page = "dashboard"
-        st.experimental_rerun()
+        st.rerun()
 
 elif st.session_state.page == "dashboard":
     st.sidebar.title("🕵️‍♂️ X/Twitter Scraper")
