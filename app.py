@@ -36,7 +36,7 @@ if not st.session_state.app_authenticated:
         if user == APP_USER and pw == APP_PASS:
             st.session_state.app_authenticated = True
             st.success("✅ Login successful")
-            st.experimental_rerun()
+            st.rerun()
         else:
             st.error("❌ Invalid credentials")
     st.stop()
